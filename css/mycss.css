@@ -3,10 +3,24 @@
 }
 
 .divbgimg {
-	background-image: url('../img/divbg.png');
+	background-image: url('../img/proimg2.jpeg');
 	background-size: cover;
+	height: 100vh;
 }
 
-.navimg {
-	background-image: url('../img/nav.png');
+.nameText {
+	text-align: right!important;
+	position: absolute;
+    bottom: 25px;
+    right: 20px;
+}
+.degText {
+	text-align: right!important;
+	position: absolute;
+    bottom: 4px;
+    right: 20px;
+}
+
+.secondaryTextContact{
+	color: #000000!important;
 }
