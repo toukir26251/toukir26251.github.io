@@ -24,3 +24,27 @@
 .secondaryTextContact{
 	color: #000000!important;
 }
+.pcolor{
+	color: #989898;
+	text-align: justify;
+}
+
+.skillPhotos{
+	height: 40%;
+	width: 40%;
+}
+
+.mb-5skillvue {
+    margin-bottom: 1.5rem!important;
+}
+.mb-5skilland {
+    margin-bottom: 1rem!important;
+}
+.mb-5skillphp {
+    margin-bottom: 2.5rem!important;
+	margin-top: 2rem!important;
+}
+.mb-5skillsql {
+    margin-bottom: 3.5rem!important;
+	margin-top: 2rem!important;
+}
