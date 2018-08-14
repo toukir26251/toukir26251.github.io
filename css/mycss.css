@@ -1,0 +1,12 @@
+.proimg {
+	border-radius:50%;
+}
+
+.divbgimg {
+	background-image: url('../img/divbg.png');
+	background-size: cover;
+}
+
+.navimg {
+	background-image: url('../img/nav.png');
+}
